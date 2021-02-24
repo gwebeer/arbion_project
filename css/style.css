@@ -32,7 +32,7 @@
     margin: 7px;
 }
 
-.btLogin {
+.bt {
     padding: 10px;
     margin: 17px 20px 17px 20px;
     width: 150px;
@@ -40,4 +40,9 @@
     color: #F3F3F3;
     border: solid 0.1px #cb624b;
     border-radius: 7px;
+}
+
+a {
+    color: #F3F3F3;
+    text-decoration: none;
 }
