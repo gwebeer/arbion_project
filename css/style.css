@@ -1,0 +1,43 @@
+.mainLogin {
+    background-color: #F3F3F3;
+    left: 50%;
+    top: 50%;
+    margin-left: -300px; 
+    margin-top: -250px; 
+    position: absolute;
+    width: 600px;
+    height: 500px;
+    text-align: center;
+    vertical-align:middle;
+    display:table-cell;
+    border: #c08a7e solid 3px;
+    border-radius: 3%;
+}
+
+.loginContent {
+    width: 90%; 
+    height: 90%; 
+    background-color: aqua;
+    align-items: center;
+    justify-content: center;
+}
+
+.text {
+    color: #cb624b;
+}
+
+.formField {
+    width: 50%;
+    padding: 5px;
+    margin: 7px;
+}
+
+.btLogin {
+    padding: 10px;
+    margin: 17px 20px 17px 20px;
+    width: 150px;
+    background-color: #cb624b;
+    color: #F3F3F3;
+    border: solid 0.1px #cb624b;
+    border-radius: 7px;
+}
