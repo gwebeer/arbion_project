@@ -69,3 +69,11 @@ a {
 .formField {
     width: 100%;
 }
+
+.formError {
+    border: 2px solid rgb(231, 96, 96);
+}
+
+#btCadastrar:hover{
+    cursor: pointer;
+}
